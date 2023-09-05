@@ -8,7 +8,7 @@ Um jogo de futebol retrô feito em linagem C inspirado no classico Snake.
 
 
 <div align="left">
-  <img width="300" src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/jogando.png"/>
+  <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/jogando.png"/>
 </div>
 
 
