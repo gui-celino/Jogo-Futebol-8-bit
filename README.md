@@ -1,7 +1,7 @@
 # Jogo-Futebol-8-bit
 Jogo de futebol em 8 bit feito em linguagem C
 
-<p align="left">lorem ipisom dolor sit bla bla teste</p>
+<p align="left">Um jogo simples e retrô em que 2 personagens podem percorrer o campo chutando a bola ate que façam o gol.</p>
 
 
 <div align="left">
