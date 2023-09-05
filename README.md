@@ -53,3 +53,12 @@ mover a bola para dentro do gol adversário assim somando 1 gol ao placar.
 <div align="left">
   <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/jogando.png"/>
 </div>
+
+## História
+
+A proposta inicial do projeto foi levantada em um 
+trabalho interdisciplinar do 1º semestre do curso de 
+Análise e Desenvolvimento de Sistemas (ADS) do 
+IFSP-HTO.
+Ao longo do curso a professora apenas por curiosidade extra classe disponibilizou o codigo do jogo snake assim observei por dias sua mecanica de jogo e decidi criar algo parecido mas com o futebol.
+
