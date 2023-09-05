@@ -27,11 +27,11 @@ Jogador 1 se move com as teclas `←` `↑` `↓` `→`
 Jogador 2 se move com as Teclas `A` `W` `S` `D`
 
 
-#### Jogabilidade
+#### Jogabilidade:
 
-ao tocar na bola o jogador chuta a bola 3 casas para a frente conforme a direção que o jogador esta seguindo.
+Ao tocar na bola o jogador chuta a bola 3 casas para a frente conforme a direção que o jogador esta seguindo.
 #### Objetivo:
-mover a bola para dentro do gol adversário assim somando 1 gol ao placar.
+Mover a bola para dentro do gol adversário assim somando 1 gol ao placar.
 
 
 
