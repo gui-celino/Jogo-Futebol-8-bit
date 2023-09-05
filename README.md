@@ -28,6 +28,12 @@ Jogo de futebol em 8 bit feito em linguagem C inspirado no classi jogo SNAKE.
 
 Um jogo de futebol retrô feito em linagem C inspirado no classico Snake.
 
+
+<p align="left">Um jogo simples e retrô em que 2 personagens podem percorrer o campo chutando a bola ate que façam o gol.</p>
+<div align="left">
+  <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/jogabilidade.png"/>
+</div>
+
 <div align="left">
   <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/jogando.png"/>
 </div>
