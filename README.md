@@ -13,7 +13,7 @@ Jogo de futebol em 8 bit feito em linguagem C
   <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/tela-inicial.png"/>
 </div>
 <div align="left">
-  <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/instrucoes.png"/>
+  <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/instrucoes-jogo.png"/>
 </div>
 
 <div align="left">
