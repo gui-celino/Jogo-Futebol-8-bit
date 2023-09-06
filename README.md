@@ -64,7 +64,7 @@ IFSP-HTO. Ao longo do curso a professora apenas por curiosidade extra classe dis
 
 ## Materiais e métodos
 
-Para desenhar o campo utilizamos a função `gotoxy()` nesta função é possivel passar duas coordenadas e assim ela insere o conteudo do seu proximo printf na coordenada inserida, vemos seu uso no codigo abaixo.
+Para desenhar o campo utilizamos a função `gotoxy()` nesta função é possivel passar duas coordenadas, assim ela insere o conteudo do seu proximo "printf()" na coordenada inserida, vemos seu uso no codigo abaixo.
 
 ```
 #include <stdio.h>
