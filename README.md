@@ -88,21 +88,21 @@ main(){
 Com este código, utilizando caracteres da tabela ASCII foi posivel desenhar o campo.
 Para nao escrever muitas vezes a função `printf()` para desenhar o campo todo, utilizei alguns laços de repetição alterando o valor de X ou Y da função `gotoxy()`
 ```
- int i;
+int i;
   
-  for (i = 3; i <= 13; i++)  {
-  	gotoxy( 3, i);
-    printf("%c",179);
-    gotoxy( 43, i);
-    printf("%c",179);
-  }
-  
-  for (i = 3; i <= 43; i++)  {
-  	gotoxy( i, 3);
-    printf("%c", 196);
-    gotoxy( i, 13);
-    printf("%c", 196);
-  }
+for (i = 3; i <= 13; i++){
+  gotoxy( 3, i);
+  printf("%c",179);
+  gotoxy( 43, i);
+  printf("%c",179);
+}
+
+for (i = 3; i <= 43; i++){
+  gotoxy( i, 3);
+  printf("%c", 196);
+  gotoxy( i, 13);
+  printf("%c", 196);
+}
 ```
 
 
