@@ -84,7 +84,7 @@ main(){
   <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/codigo-gotoxy.png"/>
 </div>
 
-#### Desenho do campo
+### Desenho do campo
 Com este código, utilizando caracteres da tabela ASCII foi posivel desenhar o campo.
 Para nao escrever muitas vezes a função `printf()` para desenhar o campo todo, utilizei alguns laços de repetição alterando o valor de X ou Y da função `gotoxy()`
 
@@ -110,4 +110,11 @@ for (i = 3; i <= 43; i++){
 <div align="left">
   <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/retangulo.png"/>
 </div>
+
+### Movimento dos jogadores
+
+A função `getch()` espera que o usuário digite uma tecla e retorna este caractere.
+Com isso podemos saber qual tecla foi digitada e assim podemos tomar uma ação no jogo referente a determinada tecla acionada.
+Assim ocorre o movimento dos personagens da tela.
+Ex: ao apertar a tecla `→` o jogador 1 se move para a direita.
 
