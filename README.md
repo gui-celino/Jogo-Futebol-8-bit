@@ -84,7 +84,7 @@ main(){
   <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/codigo-gotoxy.png"/>
 </div>
 <br>
-##### Desenho do campo
+#### Desenho do campo
 <p>Com este código, utilizando caracteres da tabela ASCII foi posivel desenhar o campo.
 Para nao escrever muitas vezes a função `printf()` para desenhar o campo todo, utilizei alguns laços de repetição alterando o valor de X ou Y da função `gotoxy()`</p>
 
