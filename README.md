@@ -62,6 +62,22 @@ Análise e Desenvolvimento de Sistemas (ADS) do
 IFSP-HTO. Ao longo do curso a professora apenas por curiosidade extra classe disponibilizou o codigo do jogo **Snake** assim observei por dias sua mecanica de jogo e decidi criar algo parecido mas com o futebol.
 
 
+## Materiais e métodos
 
+Para desenhar o campo utilizamos a função `gotoxy()` nest função é possivel passar duas coordenadas e assim ela insere o conteudo do seu proximo printf na coordenada inserida.
+
+```
+#include <stdio.h>
+#include <windows.h>
+
+void gotoxy(int x, int y){
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),(COORD){x-1,y-1});
+}
+
+main(){    
+    gotoxy(10, 5);
+    printf("Ola Mundo");
+}
+```
 
 
