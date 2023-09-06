@@ -90,16 +90,14 @@ Para nao escrever muitas vezes a função `printf()` para desenhar o campo todo,
 ```
  int i;
   
-  for (i = 3; i <= 13; i++)
-  {
+  for (i = 3; i <= 13; i++)  {
   	gotoxy( 3, i);
     printf("%c",179);
     gotoxy( 43, i);
     printf("%c",179);
   }
   
-  for (i = 3; i <= 43; i++)
-  {
+  for (i = 3; i <= 43; i++)  {
   	gotoxy( i, 3);
     printf("%c", 196);
     gotoxy( i, 13);
