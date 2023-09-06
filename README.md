@@ -68,10 +68,12 @@ Para desenhar o campo utilizamos a função `gotoxy()` nest função é possivel
 
 ```
 #include <stdio.h>
-#include <windows.h> 
+#include <windows.h>
+
 void gotoxy(int x, int y){
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),(COORD){x-1,y-1});
 }
+
 main(){    
     gotoxy(10, 5);
     printf("Ola Mundo");
