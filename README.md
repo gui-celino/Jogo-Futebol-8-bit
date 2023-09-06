@@ -115,6 +115,6 @@ for (i = 3; i <= 43; i++){
 
 A função `getch()` espera que o usuário digite uma tecla e retorna este caractere.
 Com isso podemos saber qual tecla foi digitada e assim podemos tomar uma ação no jogo referente a determinada tecla acionada.
-Assim ocorre o movimento dos personagens da tela.
 Ex: ao apertar a tecla `→` o jogador 1 se move para a direita.
+Assim ocorre o movimento dos personagens da tela.
 
