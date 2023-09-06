@@ -64,7 +64,7 @@ IFSP-HTO. Ao longo do curso a professora apenas por curiosidade extra classe dis
 
 ## Materiais e métodos
 
-Para desenhar o campo utilizamos a função `gotoxy()` nest função é possivel passar duas coordenadas e assim ela insere o conteudo do seu proximo printf na coordenada inserida.
+Para desenhar o campo utilizamos a função `gotoxy()` nesta função é possivel passar duas coordenadas e assim ela insere o conteudo do seu proximo printf na coordenada inserida, vemos seu uso no codigo abaixo.
 
 ```
 #include <stdio.h>
@@ -79,5 +79,12 @@ main(){
     printf("Ola Mundo");
 }
 ```
+#### Resultado
+<div align="left">
+  <img src="https://github.com/gui-celino/Jogo-Futebol-8-bit/blob/main/imagens-jogo/codigo-gotoxy.png"/>
+</div>
+
+Com este codigo, utilizando caracteres da tabela ASCII foi posivel desenhar o campo.
+Para nao escrever muitas vezes a função `printf()` para desenhar o campo todo, utilizei alguns laços de repetição alterando o valor de X ou Y da função `gotoxy()`
 
 
